@@ -244,6 +244,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [SwapAPI](https://swapapi.dev) - Free DEX aggregator API returning executable swap calldata across 46 EVM chains. No API key required. [GitHub](https://github.com/swap-api/swap-api)
 - [finsymbols](https://github.com/skillachie/finsymbols) - Obtains stock symbols and relating information for SP500, AMEX, NYSE, and NASDAQ.
 - [FRB](https://github.com/avelkoski/FRB) - Python Client for FRED® API.
+- [Frostbyte](https://agent-gateway-kappa.vercel.app) - Real-time crypto prices for 500+ tokens via REST API with free tier, DeFi swap routing and portfolio tracking.
 - [inquisitor](https://github.com/econdb/inquisitor) - Python Interface to Econdb.com API.
 - [yfi](https://github.com/nickelkr/yfi) - Yahoo! YQL library.
 - [chinesestockapi](https://pypi.org/project/chinesestockapi/) - Python API to get Chinese stock price. (Last updated: 2015-03-21)
